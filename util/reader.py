@@ -3,7 +3,7 @@ import os
 import re
 
 
-os.chdir("C:\\Users\\nathan\\Dropbox\\Books\\Grimgar")
+os.chdir("C:\\Users\\location to output.txt")
 
 engine = pyttsx3.init()
 
